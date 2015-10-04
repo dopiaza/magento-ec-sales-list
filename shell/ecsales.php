@@ -12,7 +12,7 @@ require_once 'abstract.php';
 class Dopiaza_Shell_VAT_Report extends Mage_Shell_Abstract
 {
     const QUOTE = "'";
-    const TXT_SEPARATOR = ',';
+    const TXT_SEPARATOR = "\t";
     const CSV_SEPARATOR = ',';
     const EOL = "\n";
 
