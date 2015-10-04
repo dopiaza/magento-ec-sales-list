@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!--
+/**
+ *
+ * @category    Dopiaza
+ * @package     Dopiaza_VAT
+ * @version     1.0.0
+ */
+-->
+<config>
+    <modules>
+        <Dopiaza_VAT>
+            <version>1.0.0</version>
+        </Dopiaza_VAT>
+    </modules>
+
+    <global>
+        <models>
+            <dopiazavat>
+                <class>Dopiaza_VAT_Model</class>
+            </dopiazavat>
+        </models>
+    </global>
+</config>

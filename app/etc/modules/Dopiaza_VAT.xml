@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Dopiaza_VAT>
+            <active>true</active>
+            <codePool>community</codePool>
+        </Dopiaza_VAT>
+    </modules>
+</config>
+

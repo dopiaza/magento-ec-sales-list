@@ -1,0 +1,4 @@
+app/code/community/Dopiaza/VAT/etc/config.xml               app/code/community/Dopiaza/VAT/etc/config.xml
+app/code/community/Dopiaza/VAT/Model/Sales/Ecsaleslist.php  app/code/community/Dopiaza/VAT/Model/Sales/Ecsaleslist.php
+app/etc/modules/Dopiaza_VAT.xml                             app/etc/modules/Dopiaza_VAT.xml
+shell/ecsales.php                                           shell/ecsales.php
