@@ -16,7 +16,7 @@ php -f ecsales.php -- --from 2015-01-01 --to 2015-03-31 --format txt
 
 `from` and `to` dates must be specified in the format `YYYY-MM-DD` and will default to today if not specified. `format` may be either `txt` or `csv` and will default to `txt` if not specified.
 
-## Magenta Version Support
+## Magento Version Support
 
 This extension has been tested with Magento version 1.9.2.1. It should work with other recent versions of Magento, but you should (as always) verify it is working as expected before deploying to a production server.
 
